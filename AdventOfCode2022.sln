@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day01", "Day01\Day01.csproj", "{D9FAA61E-2C7C-4E65-A545-9C3A9A1659EC}"
 EndProject
@@ -17,6 +17,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day08", "Day08\Day08.csproj", "{ECDCF720-C87A-4DA9-B6ED-E814A0D61CE9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day09", "Day09\Day09.csproj", "{B657B69B-33A4-428D-BFFE-D72B1B1A00EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day10", "Day10\Day10.csproj", "{8794C838-CCD5-4346-93AC-56E20460AF60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -60,5 +62,9 @@ Global
 		{B657B69B-33A4-428D-BFFE-D72B1B1A00EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B657B69B-33A4-428D-BFFE-D72B1B1A00EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B657B69B-33A4-428D-BFFE-D72B1B1A00EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8794C838-CCD5-4346-93AC-56E20460AF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8794C838-CCD5-4346-93AC-56E20460AF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8794C838-CCD5-4346-93AC-56E20460AF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8794C838-CCD5-4346-93AC-56E20460AF60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
